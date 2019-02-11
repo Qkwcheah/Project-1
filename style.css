@@ -1,0 +1,23 @@
+h1 {
+    color:red
+    }
+
+p {
+    color:orange
+}
+
+h2,h3,h4 {
+    color:aqua
+}
+
+h5 {
+    background-color:black;
+    color:whitesmoke;
+    font-size: 55pt;
+    Font-family: Impact, "Arial Black", Arial, Verdana, sans-serif;
+    Text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+    Text-align: center
+
+}
